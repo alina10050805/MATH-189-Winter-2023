@@ -22,3 +22,4 @@ An introduction to various quantitative methods and statistical techniques for a
 |:------|:----------|:-------------|
 |Lecture 1 |Warm-up: Matrix Algebra |[Matrix Algebra_1](./slides/Week1a.pdf)  [Matrix Algebra_2](./slides/Week1_PS.pdf) |
 |Lecture 2 |Data Analysis & Inference |[Data Analysis](./slides/Week1_Visualization.pdf) |
+|Lecture 3 |Descriptive |[Descriptive](./slides/Week2_Descriptive.pdf) |
