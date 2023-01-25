@@ -24,3 +24,4 @@ An introduction to various quantitative methods and statistical techniques for a
 |Lecture 2 |Data Analysis & Inference |[Data Analysis](./slides/Week1_Visualization.pdf) |
 |Lecture 3 |Descriptive |[Descriptive](./slides/Week2_Descriptive.pdf) |
 |Lecture 4 |Inference for the Mean: Preliminaries |[Preliminaries](./slides/Week2_Inference.pdf) |
+|Lecture 5 |Multiple Testing: FWER and FDR |[Multiple Testing: FWER and FDR](./slides/Week3_MultipleTesting.pdf) |
