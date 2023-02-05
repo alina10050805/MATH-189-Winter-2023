@@ -17,6 +17,7 @@ An introduction to various quantitative methods and statistical techniques for a
 |:------|:----------|:-------------|:-------------|:----------|:------|
 |HW 0 |-- |[Requirement]|[GitHub] |--  |--    |
 
+
 ## Slides
 |       |Subject    |Slides   |
 |:------|:----------|:-------------|
