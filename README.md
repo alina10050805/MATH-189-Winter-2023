@@ -13,10 +13,15 @@
 An introduction to various quantitative methods and statistical techniques for analyzing data—in particular big data. Quick review of probability continuing to topics of how to process, analyze, and visualize data using statistical language R. Further topics include basic inference, sampling, hypothesis testing, bootstrap methods, and regression and diagnostics. Offers conceptual explanation of techniques, along with opportunities to examine, implement, and practice them in real and simulated data. Prerequisites: MATH 18 or MATH 20F or MATH 31AH, and MATH 20C and one of BENG 134, CSE 103, ECE 109, ECON 120A, MAE 108, MATH 180A, MATH 183, MATH 186, or SE 125.
 
 ## Homeworks
-|       |Subject    |Requirement   |GitHub Link   |Feedback   |Score  |
-|:------|:----------|:-------------|:-------------|:----------|:------|
-|HW 0 |-- |[Requirement]|[GitHub] |--  |--    |
+All Homeworks is done by group of 3 people.
 
+|       |Folder |Requirement   |GitHub Link   |Feedback   |Score  |
+|:------|:------|:-------------|:-------------|:----------|:------|
+|HW 1 |[HW1](./HW1) |[Requirement](./HW1/HW1.pdf)|[GitHub] |--  |40/40    |
+|HW 2 |[HW2](./HW2) |[Requirement](./HW2/HW2.pdf)|[GitHub] |Question 2.3: incorrect multiple testing with Bonferroni correction(−3.5 pts)  |36.5/40    |
+|HW 3 |[HW3](./HW3) |[Requirement](./HW3/HW3.pdf)|[GitHub] |--  |25/25    |
+|HW 4 |[HW4](./HW4) |[Requirement](./HW4/HW4.pdf)|[GitHub] |--  |--    |
+|HW 5 |[HW5](./HW5) |[Requirement](./HW5/HW5.pdf)|[GitHub] |--  |--    |
 
 ## Slides
 |       |Subject    |Slides   |
