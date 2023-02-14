@@ -29,3 +29,6 @@ An introduction to various quantitative methods and statistical techniques for a
 |Lecture 6 |Global Mean Testing and Two-Sample Problems |[Global Testing](./slides/Week3_GlobalTesting.pdf) |
 |Lecture 7 |Multivariate Analysis of Variance |[ANOVA](./slides/Week4_ANOVA.pdf) |
 |Lecture 8 |Classification via Linear Discriminant Analysis |[LDA](./slides/Week4_LDA.pdf) |
+|Lecture 9 |Multivariate Linear Regression |[LR](./slides/Week5_LR.pdf) |
+|Lecture 10 |Multivariate Linear Regression |-- |
+|Lecture 11 |Classification via Logistic Regression |[LogisticReg](./slides/Week6_LogisticReg.pdf) |
