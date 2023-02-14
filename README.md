@@ -26,3 +26,6 @@ An introduction to various quantitative methods and statistical techniques for a
 |Lecture 3 |Descriptive |[Descriptive](./slides/Week2_Descriptive.pdf) |
 |Lecture 4 |Inference for the Mean: Preliminaries |[Preliminaries](./slides/Week2_Inference.pdf) |
 |Lecture 5 |Multiple Testing: FWER and FDR |[Multiple Testing: FWER and FDR](./slides/Week3_MultipleTesting.pdf) |
+|Lecture 6 |Global Mean Testing and Two-Sample Problems |[Global Testing](./slides/Week3_GlobalTesting.pdf) |
+|Lecture 7 |Multivariate Analysis of Variance |[ANOVA](./slides/Week4_ANOVA.pdf) |
+|Lecture 8 |Classification via Linear Discriminant Analysis |[LDA](./slides/Week4_LDA.pdf) |
