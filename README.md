@@ -20,8 +20,9 @@ All Homeworks is done by group of 3 people.
 |HW 1 |[HW1](./HW1) |[Requirement](./HW1/HW1.pdf)|[GitHub] |--  |40/40    |
 |HW 2 |[HW2](./HW2) |[Requirement](./HW2/HW2.pdf)|[GitHub] |Question 2.3: incorrect multiple testing with Bonferroni correction(−3.5 pts)  |36.5/40    |
 |HW 3 |[HW3](./HW3) |[Requirement](./HW3/HW3.pdf)|[GitHub] |--  |25/25    |
-|HW 4 |[HW4](./HW4) |[Requirement](./HW4/HW4.pdf)|[GitHub] |--  |--    |
+|HW 4 |[HW4](./HW4) |[Requirement](./HW4/HW4.pdf)|[GitHub] |--  |40/40    |
 |HW 5 |[HW5](./HW5) |[Requirement](./HW5/HW5.pdf)|[GitHub] |--  |--    |
+|HW 6 |[HW6](./HW6) |[Requirement](./HW6/HW6.pdf)|[GitHub] |--  |--    |
 
 ## Slides
 |       |Subject    |Slides   |
