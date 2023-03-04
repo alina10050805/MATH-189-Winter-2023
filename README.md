@@ -39,3 +39,4 @@ All Homeworks is done by group of 3 people.
 |Lecture 10 |Multivariate Linear Regression |-- |
 |Lecture 11 |Classification via Logistic Regression |[LogisticReg](./slides/Week6_LogisticReg.pdf) |
 |Lecture 12 |Principal Component Analysis |[Principal Component Analysis](./slides//Week6_PCA.pdf) |
+|Lecture 13 |  |[ ](./slides) |
